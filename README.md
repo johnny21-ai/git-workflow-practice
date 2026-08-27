@@ -12,3 +12,8 @@ This project demonstrates a full Git workflow: branching, commits, conflict reso
 ## Usage
 
 Run the app with npm start.
+
+## Contributing
+Contributions are welcome. Please open a pull request describing your changes.
+
+PR descriptions should include a 'What changed' and 'Why' section.
