@@ -1,1 +1,1 @@
-# Git Workflow Practice
+# Git Workflow Practice (Team Project)
